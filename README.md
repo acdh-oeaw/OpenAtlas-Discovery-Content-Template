@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to the documentation for the OpenAtlas Discovery (OAD) Content Repository. This repository serves as a central location for managing content and related assets for an OAD. It includes a configuration file, content files, and directories for storing images, favicons, and logos. This documentation will guide you through the structure and usage of the repository.
+Welcome to the documentation for the OpenAtlas Discovery (OAD) Content Repository. This repository serves as a central location for managing content and related assets for an OAD site. It includes a configuration file, content files, and directories for storing images, favicons, and logos. This documentation will guide you through the structure and usage of the repository.
 
 ## Repository Structure
 
