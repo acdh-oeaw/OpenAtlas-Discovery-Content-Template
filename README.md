@@ -43,7 +43,7 @@ content/
 
 The `public/` directory is used to store the assets required by the website. It should contain the following elements:
 
-- Favicon: The favicon is a small icon that represents your website. Place the favicon file (typically in `.ico` or `.png` format) directly inside the `public/` directory.
+- Favicon: The favicon is a small icon that represents your website. Place the favicon file (in `.ico` or `.svg` format) directly inside the `public/` directory.
 - Logo: The logo represents the visual identity of your website. It's recommended (though not necessary) to store the logo file directly inside the `public/` directory (as valid image file, e.g. `logo.png`, `logo.svg`, ...).
 - Header Logo: The header logo is the logo displayed in the top bar of the site. It's requires and needs to be stored directly inside the `public/` directory as `header_logo.svg`.
 - Images: The `public/` directory can also contain images that are used within the website's content. You can organize the images in subdirectories within the `public/` directory based on your requirements. Make sure to update the image URLs or references in the content files accordingly.
