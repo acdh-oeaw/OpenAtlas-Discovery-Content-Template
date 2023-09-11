@@ -20,7 +20,7 @@ To configure the behavior of the website, you can modify the `discoveryConfig.js
 
 ### Managing Content
 
-The `content/` directory is where you can create and manage the content for your website. The content is written in Markdown format, which allows for easy formatting and structuring of text-based content. You can use any text editor or Markdown editor of your choice to create or modify the Markdown files.
+The `content/` directory is where you can create and manage the content for your website. The content is written in Markdown format, which allows for easy formatting and structuring of text-based content. You can use any text editor or Markdown editor of your choice to create or modify the Markdown files (a list of some great Markdown editors can be found [here](https://github.com/mundimark/awesome-markdown-editors)).
 
 When creating new content, you can either create the Markdown file directly inside the `content/` directory or create subdirectories within `content/` for better organization. It is recommended to follow a logical structure while organizing the content files in subdirectories, especially if your website has multiple sections or categories.
 
